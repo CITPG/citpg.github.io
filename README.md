@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://citpg.github.io/
+
+batch01  || WD&CIT@2026
